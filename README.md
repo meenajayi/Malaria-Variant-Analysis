@@ -9,7 +9,8 @@ A bioinformatics project to detect drug resistance markers in *Plasmodium falcip
 - Perl  
 - Excel  
 - SQL  
-- Tableau  
+- Tableau
+- Power BI 
 
 ## Project Goals
 - Download raw genome data
